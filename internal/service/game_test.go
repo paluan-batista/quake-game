@@ -2,7 +2,7 @@ package service_test
 
 import (
 	"fmt"
-	"quake-log-parser/service"
+	"quake-log-parser/internal/service"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

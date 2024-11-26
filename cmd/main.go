@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"quake-log-parser/service"
+	"quake-log-parser/internal/service"
 )
 
 func main() {

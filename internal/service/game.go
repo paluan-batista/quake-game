@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"quake-log-parser/schema"
+	"quake-log-parser/internal/schema"
 	"regexp"
 	"strings"
 )
