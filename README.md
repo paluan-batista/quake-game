@@ -18,3 +18,18 @@ This project is a parser for Quake log files that analyzes and structures game d
 ## How to Run
 
 1. Place the log file (`qgames.log`) in the root directory of the project. You can use the provided example log or a real Quake log.
+2. Run the command below to run the application:
+
+   ```bash
+   make run
+   ```
+3. To run the unit tests, run the following commands:
+
+   ```bash
+   make test_prepare
+   ```
+   and then
+
+   ```bash
+   make test
+   ```
